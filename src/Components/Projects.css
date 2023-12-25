@@ -1,0 +1,170 @@
+@import url('https://fonts.googleapis.com/css2?family=Righteous&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@300&display=swap');
+
+body {
+  background: #000000;
+  background-size: cover;
+  background-position: center;  
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin: 0;
+  padding: 0;
+  color: #BBDF4D;
+  font-family: 'Lato', sans-serif;
+}
+.project-heading {
+  font-family: 'Ubuntu', sans-serif;
+  font-size: 4.5rem;
+  margin-top: 50px;
+  margin-bottom: 50px;
+  text-align: center;
+}
+.project-card {
+  backdrop-filter: blur(10px) saturate(180%);
+  -webkit-backdrop-filter: blur(10px) saturate(180%);
+  background-color: rgba(17, 25, 40, 0.75);
+  border-radius: 12px;
+  border: 1px solid rgba(255, 255, 255, 0.125);
+  margin: 15px;
+  padding: 20px;
+  text-align: center;
+  flex-basis: calc(33.333% - 30px); /* for 3 cards in a row */
+  box-shadow: 0 10px 15px rgba(0,0,0,0.2);
+  transition: background-color 0.5s ease, transform 0.5s ease; /* Add transition */
+}
+.project-card h1 {
+  font-family: 'Righteous', sans-serif;
+  font-size: 1.8rem;
+  margin-top: 10px;
+}
+
+.project-card:hover {
+  background-color: #BBDF4D; /* Change background color on hover */
+  color: rgba(17, 25, 40, 0.75); /* Change text color on hover */
+  transform: translateY(-10px); /* Slide effect */
+}
+
+.project-card .project-image img {
+  width: 100%; /* make image responsive */
+  height: 230px;
+  object-fit: cover;
+  border-radius: 6px;
+}
+
+
+
+.project-card p {
+  font-size: 0.9rem;
+  line-height: 1.5;
+  letter-spacing: normal;
+  text-transform: none;
+}
+
+.project-container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  padding: 20px;
+}
+
+/* Additional styles for buttons if they are inside project cards */
+.project-card .btn {
+  /* your button styles */
+}
+
+/* Add other styles as needed */
+
+/* CSS for Read More button inside project card */
+.project-card .modBtn {
+  background-color: rgba(255, 255, 255, 0.1); /* Semi-transparent white */
+  color: #BBDF4D; /* Same as text color */
+  border: 1px solid #BBDF4D;
+  padding: 10px 15px;
+  margin-top: 10px;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: background-color 0.3s, color 0.3s;
+}
+
+.project-card:hover .modBtn {
+  background-color: #BBDF4D; /* Highlight color on hover */
+  color: rgba(17, 25, 40, 0.75); /* Dark text on hover */
+  border: 1px solid rgba(17, 25, 40, 0.75);
+}
+
+/* General Modal Styling */
+.modal {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-color: rgba(0, 0, 0, 0.6); /* Semi-transparent background */
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  z-index: 1000; /* Ensure it's on top */
+}
+
+.modal-content {
+  background-color: rgba(17, 25, 40, 0.85); /* Similar to card but darker */
+  padding: 20px;
+  border-radius: 10px;
+  box-shadow: 0 10px 25px rgba(0,0,0,0.5);
+  width: 80%;
+  max-width: 600px; /* Maximum width */
+}
+
+.modal-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.modal-header .close {
+  cursor: pointer;
+  color: #BBDF4D;
+  font-size: 1.5rem;
+}
+
+.modal-body {
+  margin-top: 20px;
+}
+
+.modal-img img {
+  width: 400px;
+  height: 300px;
+  border-radius: 6px;
+}
+
+/* You may add more styles for modal text, links, etc., as per your need. */
+.year-tabs {
+  display: flex;
+  margin-top: 10px;
+  justify-content: center; /* Centers buttons horizontally */
+  overflow-x: auto;
+  padding: 10px;
+  gap: 10px;
+}
+
+
+.year-tabs button {
+  background-color: rgba(17, 25, 40, 0.75);
+  color:#BBDF4D;
+  font-size: 1.0rem;
+  line-height: 1.5;
+  letter-spacing: normal;
+  text-transform: none;
+  border: 1px solid #BBDF4D;
+  padding: 10px 15px;
+  border-radius: 5px;
+  cursor: pointer;
+  /* Add more styles as per your theme */
+}
+
+.year-tabs button:hover {
+  background-color: #BBDF4D; /* Highlight color on hover */
+  color: rgba(17, 25, 40, 0.75); /* Dark text on hover */
+  border: 1px solid rgba(17, 25, 40, 0.75);
+}
