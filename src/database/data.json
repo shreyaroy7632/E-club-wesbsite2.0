@@ -1,0 +1,265 @@
+{
+    "coordi":[
+        {
+            "id":1,
+            "name":"Om Srivastava",
+            "email":"souravsh21@iitk.ac.in",
+            "linkedin":"https://www.linkedin.com/in/sourav-sharma-15b4bb223/"
+    
+        },
+        {
+            "id":2,
+            "name":"Kartik Sharma",
+            "email":"suryanshg21@iitk.ac.in",
+            "linkedin":"https://www.linkedin.com/in/suryansh-gaur-4310741a0"
+        },
+        {
+            "id":3,
+            "name":"Sayeedul Islam Sheikh",
+            "email":"souravsh21@iitk.ac.in",
+            "linkedin":"https://www.linkedin.com/in/sourav-sharma-15b4bb223/"
+    
+        },
+        {
+            "id":4,
+            "name":"Rajvardhan Verma",
+            "email":"suryanshg21@iitk.ac.in",
+            "linkedin":"https://www.linkedin.com/in/suryansh-gaur-4310741a0"
+        }
+
+    ],
+    "pastcoordi":[
+        {
+            "id":1,
+            "name":"Himanshu Jindal",
+            "email":"souravsh21@iitk.ac.in",
+            "linkedin":"https://www.linkedin.com/in/sourav-sharma-15b4bb223/"
+    
+        },
+        {
+            "id":2,
+            "name":"Keval Moliya",
+            "email":"suryanshg21@iitk.ac.in",
+            "linkedin":"https://www.linkedin.com/in/suryansh-gaur-4310741a0"
+        },
+        {
+            "id":3,
+            "name":"Nikhil Gupta",
+            "email":"souravsh21@iitk.ac.in",
+            "linkedin":"https://www.linkedin.com/in/sourav-sharma-15b4bb223/"
+    
+        },
+        {
+            "id":4,
+            "name":"Shivam Singhal",
+            "email":"suryanshg21@iitk.ac.in",
+            "linkedin":"https://www.linkedin.com/in/suryansh-gaur-4310741a0"
+        }
+
+    ],
+    "manager":[
+        {
+            "id":1,
+            "name":"Aryan Mittal ",
+            "email":"shubham21@iitk.ac.in",
+            "vertical":"Finance and Marketing",
+            "linkedin":"https://www.linkedin.com/mwlite/in/shubham-aryan-93603623a"
+    
+        },
+        {
+            "id":2,
+            "name":"Ashwani Singh ",
+            "email":"shreyanshk21@iitk.ac.in",
+            "vertical":"Finance and Marketing",
+            "linkedin":"https://www.linkedin.com/in/shreyansh-kesharwani-6613311a6"
+        },
+        {
+            "id":3,
+            "name":"Devansh Agrawal ",
+            "email":"ajaych21@iitk.ac.in",
+            "vertical":"Design",
+            "linkedin":"https://www.linkedin.com/in/ajay-chouhan-68a0a6233"
+        },
+        {
+            "id":4,
+            "name":"Devansh Bansal",
+            "email":"ayushy21@iitk.ac.in",
+            "vertical":"Design",
+            "linkedin":"https://www.linkedin.com/in/ayush-yadav-617866269/"
+        },
+        {
+            "id":5,
+            "name" : "Dheeraj Dagar ",
+            "email":"siddharthg21@iitk.ac.in",
+            "vertical":"Policy Research",
+            "linkedin":"https://www.linkedin.com/in/siddharth-garg-080534223"
+        },
+        {
+            "id":6,
+            "name":"Dhruv Mittal ",
+            "email":"manujap21@iitk.ac.in",
+            "vertical":"Policy Research",
+            "linkedin":"https://www.linkedin.com/in/manuja-pandey-095b26241"
+        },
+        {
+            "id":7,
+            "name":"Gupil ",
+            "email":"muskang21@iitk.ac.in",
+            "vertical":"Events",
+            "linkedin":"https://www.linkedin.com/in/muskan-gautam-72b5b1242/"
+        },
+        
+        
+        {
+            "id":8,
+            "name":"Likith Sai Jonna ",
+            "email":"shubham21@iitk.ac.in",
+            "vertical":"Finance and Marketing",
+            "linkedin":"https://www.linkedin.com/mwlite/in/shubham-aryan-93603623a"
+    
+        },
+        {
+            "id":9,
+            "name":"Kanika Chaturvedi ",
+            "email":"shreyanshk21@iitk.ac.in",
+            "vertical":"Finance and Marketing",
+            "linkedin":"https://www.linkedin.com/in/shreyansh-kesharwani-6613311a6"
+        },
+        {
+            "id":10,
+            "name":"Manas Kumar ",
+            "email":"ajaych21@iitk.ac.in",
+            "vertical":"Design",
+            "linkedin":"https://www.linkedin.com/in/ajay-chouhan-68a0a6233"
+        },
+        {
+            "id":11,
+            "name":"Mansi Patel",
+            "email":"ayushy21@iitk.ac.in",
+            "vertical":"Design",
+            "linkedin":"https://www.linkedin.com/in/ayush-yadav-617866269/"
+        },
+        {
+            "id":12,
+            "name" : "Omkar Prusty ",
+            "email":"siddharthg21@iitk.ac.in",
+            "vertical":"Policy Research",
+            "linkedin":"https://www.linkedin.com/in/siddharth-garg-080534223"
+        },
+        {
+            "id":13,
+            "name":"Nipun Nohria ",
+            "email":"manujap21@iitk.ac.in",
+            "vertical":"Policy Research",
+            "linkedin":"https://www.linkedin.com/in/manuja-pandey-095b26241"
+        },
+        {
+            "id":14,
+            "name":"Prakhar Tripathi ",
+            "email":"muskang21@iitk.ac.in",
+            "vertical":"Events",
+            "linkedin":"https://www.linkedin.com/in/muskan-gautam-72b5b1242/"
+        },
+        {
+            "id":15,
+            "name":"Pratyush gupta ",
+            "email":"shubham21@iitk.ac.in",
+            "vertical":"Finance and Marketing",
+            "linkedin":"https://www.linkedin.com/mwlite/in/shubham-aryan-93603623a"
+    
+        },
+        {
+            "id":16,
+            "name":"Pranshu Kumar ",
+            "email":"shreyanshk21@iitk.ac.in",
+            "vertical":"Finance and Marketing",
+            "linkedin":"https://www.linkedin.com/in/shreyansh-kesharwani-6613311a6"
+        },
+        {
+            "id":17,
+            "name":"Rachit Mahajan ",
+            "email":"ajaych21@iitk.ac.in",
+            "vertical":"Design",
+            "linkedin":"https://www.linkedin.com/in/ajay-chouhan-68a0a6233"
+        },
+        {
+            "id":18,
+            "name":"Ritul",
+            "email":"ayushy21@iitk.ac.in",
+            "vertical":"Design",
+            "linkedin":"https://www.linkedin.com/in/ayush-yadav-617866269/"
+        },
+        {
+            "id":19,
+            "name" : "Rohit Verma ",
+            "email":"siddharthg21@iitk.ac.in",
+            "vertical":"Policy Research",
+            "linkedin":"https://www.linkedin.com/in/siddharth-garg-080534223"
+        },
+        {
+            "id":20,
+            "name":"Rythm Kumar ",
+            "email":"manujap21@iitk.ac.in",
+            "vertical":"Policy Research",
+            "linkedin":"https://www.linkedin.com/in/manuja-pandey-095b26241"
+        },
+        {
+            "id":21,
+            "name":"Sanya ",
+            "email":"shubham21@iitk.ac.in",
+            "vertical":"Finance and Marketing",
+            "linkedin":"https://www.linkedin.com/mwlite/in/shubham-aryan-93603623a"
+    
+        },
+        {
+            "id":22,
+            "name":"Shahnawaz Mustafir ",
+            "email":"shreyanshk21@iitk.ac.in",
+            "vertical":"Finance and Marketing",
+            "linkedin":"https://www.linkedin.com/in/shreyansh-kesharwani-6613311a6"
+        },
+        {
+            "id":23,
+            "name":"Shivang Agarwal ",
+            "email":"ajaych21@iitk.ac.in",
+            "vertical":"Design",
+            "linkedin":"https://www.linkedin.com/in/ajay-chouhan-68a0a6233"
+        },
+        {
+            "id":24,
+            "name":"Shreya roy",
+            "email":"ayushy21@iitk.ac.in",
+            "vertical":"Design",
+            "linkedin":"https://www.linkedin.com/in/ayush-yadav-617866269/"
+        },
+        {
+            "id":25,
+            "name" : "Sofiyaan Sameer ",
+            "email":"siddharthg21@iitk.ac.in",
+            "vertical":"Policy Research",
+            "linkedin":"https://www.linkedin.com/in/siddharth-garg-080534223"
+        },
+        {
+            "id":26,
+            "name":"Souptik Majumder ",
+            "email":"manujap21@iitk.ac.in",
+            "vertical":"Policy Research",
+            "linkedin":"https://www.linkedin.com/in/manuja-pandey-095b26241"
+        },
+        {
+            "id":27,
+            "name" : "Utkarsh Singhal ",
+            "email":"siddharthg21@iitk.ac.in",
+            "vertical":"Policy Research",
+            "linkedin":"https://www.linkedin.com/in/siddharth-garg-080534223"
+        },
+        {
+            "id":28,
+            "name":"Vaneesha S Kumar ",
+            "email":"manujap21@iitk.ac.in",
+            "vertical":"Policy Research",
+            "linkedin":"https://www.linkedin.com/in/manuja-pandey-095b26241"
+        }
+    ]
+    }
+    

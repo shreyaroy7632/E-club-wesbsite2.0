@@ -1,0 +1,73 @@
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu:wght@300;400;500;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap');
+
+.about_body{
+    background-color: black;
+    height: auto;
+    margin-top: 50px;
+}
+.heading{
+    background-color: black;
+    margin-left: 50px;
+    margin-top: 40px;
+    font-size: 3.5vw; 
+    text-align: center;
+    font-weight: 700;
+    color: white;
+}
+.aboutimage{
+    width: 400px;
+    flex: 1;
+    margin-left: 170px;
+    margin-top: 0px;
+
+}
+.abouttext{
+    color: white; 
+    width:400px;
+    margin-left: 150px;
+    margin-top:200px;
+    font-family: 'poppins';
+    font-size: large;
+    text-align: left;
+}
+.aboutflex{
+    display: flex;
+    flex-direction: row;
+    margin-bottom: -100px;
+    margin-top: -100px;
+}
+.read_more_about{
+    background-color: #BBDF4D;
+    width: 100px;
+    padding: 5px;
+    border-radius: 10px;
+    margin-bottom: 50px;
+}
+.greentext{
+    color: #BBDF4D;
+}
+.additionaltext{
+    color: white; 
+    margin-left: 70px;
+    margin-right: 70px;
+    font-family: 'poppins';
+    font-size: large;
+    text-align: left;
+}
+.aboutheading{
+    color:#BBDF4D;
+    font-size:30px;
+    font-weight: bold;
+    margin-top: 20px;
+}
+.learnmore{
+    background-color: transparent;
+    border-color: white;
+    border-radius: 5px;
+    border-width: 2px;
+    border-style: solid;
+    color: aliceblue;
+    padding: 5px;
+    margin-bottom: 30px;
+}
